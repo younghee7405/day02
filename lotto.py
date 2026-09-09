@@ -1,6 +1,8 @@
 # random 모듈을 이용해서 1~45중 중복 없는 번호 6개를 뽑고
 # 자료 구조  set  , 버튼을 누루면 5세트를 한번에 생성
 # datetime 으로 생성 시간도 함께 보여준다
+#로또 v1
+
 
 import streamlit as st
 import random
