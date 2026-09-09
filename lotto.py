@@ -2,6 +2,8 @@
 # 자료 구조  set  , 버튼을 누루면 5세트를 한번에 생성
 # datetime 으로 생성 시간도 함께 보여준다
 #로또 v1
+#로또 v2
+
 
 
 import streamlit as st
